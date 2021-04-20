@@ -3,10 +3,7 @@
 #define llu                 long long unsigned int
 #define endl                '\n'
 #define repi(i,n)           for (int i = 0; i <n; i++)
-
-const int                    maxi = 1e5;
-const int                   maxn = 3e3 + 10;
-const ll                    mod = 1e9 + 7;
+;
 
 using namespace std;
 
