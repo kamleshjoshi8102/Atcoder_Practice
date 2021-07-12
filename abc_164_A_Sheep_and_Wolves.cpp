@@ -8,10 +8,6 @@
 | (￣ヽ＿_ヽ_)_)
 ＼二つ
 */
-
-
-
-
 #include <bits/stdc++.h>
 #define ll                  long long
 #define llu                 long long unsigned int
@@ -34,45 +30,6 @@ const int                   maxn = 3e3 + 10;
 const ll                    mod = 1e9 + 7;
 
 using namespace std;
-
-// ll gcd(ll a,ll b)
-// {
-//   if (!a)
-//     return b;
-//   return gcd(b % a, a);
-// }
-
-
-
-// long long lcm(ll a, ll b)
-// {
-//     return (a / gcd(a, b)) * b;
-// }
-
-
-
-
-
-
-
-// int solve()
-// {
-//      ll n , x;
-//     cin>>n;
-//     vi v(n);
-//     repi(i,n)
-//     {
-//         cin>>v[i];
-//     }
-// }
-
-
-
-// void  solve(int n)
-// {
-
-
-// }
 
 
 
