@@ -8,17 +8,7 @@
 | (￣ヽ＿_ヽ_)_)
 ＼二つ
 */
-
-
-/*   => int overflow
-     => array bounds 
-     => special cases (n=1?)
-     => do smth instead of nothing 
-     => stay organized 
-     => WRITE STUFF DOWN DON'T GET STUCK ON ONE APPROACH
-     =>Read Stuff At Bottom !
-*/
-
+ 
 
 #include <bits/stdc++.h>
 #define ll                  long long
